@@ -1,0 +1,65 @@
+﻿Year,Year Code,Gender,Gender Code,Race,Race Code,Hispanic Origin,Hispanic Origin Code,Five-Year Age Groups,Five-Year Age Groups Code,Deaths,Population,Crude Rate,Crude Rate Standard Error
+2007,2007,Female,F,Black or African American,2054-5,Not Hispanic or Latino,2186-2,< 1 year,1,3835,307533,1247,20.1
+2007,2007,Female,F,Black or African American,2054-5,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,493,1153549,42.7,1.9
+2007,2007,Female,F,White,2106-3,Not Hispanic or Latino,2186-2,< 1 year,1,5658,1077101,525.3,7
+2007,2007,Female,F,White,2106-3,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,1009,4301897,23.5,0.7
+2007,2007,Male,M,Black or African American,2054-5,Not Hispanic or Latino,2186-2,< 1 year,1,4794,317712,1508.9,21.8
+2007,2007,Male,M,Black or African American,2054-5,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,609,1192359,51.1,2.1
+2007,2007,Male,M,White,2106-3,Not Hispanic or Latino,2186-2,< 1 year,1,7340,1133543,647.5,7.6
+2007,2007,Male,M,White,2106-3,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,1316,4522868,29.1,0.8
+2008,2008,Female,F,Black or African American,2054-5,Not Hispanic or Latino,2186-2,< 1 year,1,3641,308940,1178.5,19.5
+2008,2008,Female,F,Black or African American,2054-5,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,457,1178457,38.8,1.8
+2008,2008,Female,F,White,2106-3,Not Hispanic or Latino,2186-2,< 1 year,1,5497,1065232,516,7
+2008,2008,Female,F,White,2106-3,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,1008,4282547,23.5,0.7
+2008,2008,Male,M,Black or African American,2054-5,Not Hispanic or Latino,2186-2,< 1 year,1,4546,317859,1430.2,21.2
+2008,2008,Male,M,Black or African American,2054-5,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,619,1218361,50.8,2
+2008,2008,Male,M,White,2106-3,Not Hispanic or Latino,2186-2,< 1 year,1,7022,1118406,627.9,7.5
+2008,2008,Male,M,White,2106-3,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,1365,4501736,30.3,0.8
+2009,2009,Female,F,Black or African American,2054-5,Not Hispanic or Latino,2186-2,< 1 year,1,3445,303502,1135.1,19.3
+2009,2009,Female,F,Black or African American,2054-5,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,478,1203124,39.7,1.8
+2009,2009,Female,F,White,2106-3,Not Hispanic or Latino,2186-2,< 1 year,1,5078,1027561,494.2,6.9
+2009,2009,Female,F,White,2106-3,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,919,4250343,21.6,0.7
+2009,2009,Male,M,Black or African American,2054-5,Not Hispanic or Latino,2186-2,< 1 year,1,4522,311773,1450.4,21.6
+2009,2009,Male,M,Black or African American,2054-5,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,561,1242823,45.1,1.9
+2009,2009,Male,M,White,2106-3,Not Hispanic or Latino,2186-2,< 1 year,1,6530,1080480,604.4,7.5
+2009,2009,Male,M,White,2106-3,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,1262,4464747,28.3,0.8
+2010,2010,Female,F,Black or African American,2054-5,Not Hispanic or Latino,2186-2,< 1 year,1,3140,297421,1055.7,18.8
+2010,2010,Female,F,Black or African American,2054-5,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,423,1216870,34.8,1.7
+2010,2010,Female,F,White,2106-3,Not Hispanic or Latino,2186-2,< 1 year,1,4881,1015973,480.4,6.9
+2010,2010,Female,F,White,2106-3,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,920,4225342,21.8,0.7
+2010,2010,Male,M,Black or African American,2054-5,Not Hispanic or Latino,2186-2,< 1 year,1,3931,306745,1281.5,20.4
+2010,2010,Male,M,Black or African American,2054-5,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,570,1255739,45.4,1.9
+2010,2010,Male,M,White,2106-3,Not Hispanic or Latino,2186-2,< 1 year,1,6144,1066887,575.9,7.3
+2010,2010,Male,M,White,2106-3,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,1219,4438488,27.5,0.8
+2011,2011,Female,F,Black or African American,2054-5,Not Hispanic or Latino,2186-2,< 1 year,1,3094,300740,1028.8,18.5
+2011,2011,Female,F,Black or African American,2054-5,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,436,1218225,35.8,1.7
+2011,2011,Female,F,White,2106-3,Not Hispanic or Latino,2186-2,< 1 year,1,4760,1015784,468.6,6.8
+2011,2011,Female,F,White,2106-3,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,878,4158250,21.1,0.7
+2011,2011,Male,M,Black or African American,2054-5,Not Hispanic or Latino,2186-2,< 1 year,1,3885,316146,1228.9,19.7
+2011,2011,Male,M,Black or African American,2054-5,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,575,1258786,45.7,1.9
+2011,2011,Male,M,White,2106-3,Not Hispanic or Latino,2186-2,< 1 year,1,6082,1062152,572.6,7.3
+2011,2011,Male,M,White,2106-3,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,1177,4361771,27,0.8
+2012,2012,Female,F,Black or African American,2054-5,Not Hispanic or Latino,2186-2,< 1 year,1,2973,297309,1000,18.3
+2012,2012,Female,F,Black or African American,2054-5,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,426,1211117,35.2,1.7
+2012,2012,Female,F,White,2106-3,Not Hispanic or Latino,2186-2,< 1 year,1,4715,1004886,469.2,6.8
+2012,2012,Female,F,White,2106-3,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,892,4108137,21.7,0.7
+2012,2012,Male,M,Black or African American,2054-5,Not Hispanic or Latino,2186-2,< 1 year,1,3792,311273,1218.2,19.8
+2012,2012,Male,M,Black or African American,2054-5,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,563,1252341,45,1.9
+2012,2012,Male,M,White,2106-3,Not Hispanic or Latino,2186-2,< 1 year,1,5886,1054481,558.2,7.3
+2012,2012,Male,M,White,2106-3,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,1202,4311911,27.9,0.8
+2013,2013,Female,F,Black or African American,2054-5,Not Hispanic or Latino,2186-2,< 1 year,1,3083,296741,1039,18.7
+2013,2013,Female,F,Black or African American,2054-5,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,425,1198946,35.4,1.7
+2013,2013,Female,F,White,2106-3,Not Hispanic or Latino,2186-2,< 1 year,1,4518,1007308,448.5,6.7
+2013,2013,Female,F,White,2106-3,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,828,4063264,20.4,0.7
+2013,2013,Male,M,Black or African American,2054-5,Not Hispanic or Latino,2186-2,< 1 year,1,3698,310153,1192.3,19.6
+2013,2013,Male,M,Black or African American,2054-5,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,538,1241198,43.3,1.9
+2013,2013,Male,M,White,2106-3,Not Hispanic or Latino,2186-2,< 1 year,1,6045,1057748,571.5,7.4
+2013,2013,Male,M,White,2106-3,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,1149,4269890,26.9,0.8
+2014,2014,Female,F,Black or African American,2054-5,Not Hispanic or Latino,2186-2,< 1 year,1,3018,297735,1013.7,18.5
+2014,2014,Female,F,Black or African American,2054-5,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,407,1198329,34,1.7
+2014,2014,Female,F,White,2106-3,Not Hispanic or Latino,2186-2,< 1 year,1,4540,1006751,451,6.7
+2014,2014,Female,F,White,2106-3,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,816,4047030,20.2,0.7
+2014,2014,Male,M,Black or African American,2054-5,Not Hispanic or Latino,2186-2,< 1 year,1,3680,310364,1185.7,19.5
+2014,2014,Male,M,Black or African American,2054-5,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,560,1241447,45.1,1.9
+2014,2014,Male,M,White,2106-3,Not Hispanic or Latino,2186-2,< 1 year,1,5801,1054908,549.9,7.2
+2014,2014,Male,M,White,2106-3,Not Hispanic or Latino,2186-2,1-4 years,4-Jan,1060,4253912,24.9,0.8
